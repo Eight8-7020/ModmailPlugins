@@ -1,6 +1,6 @@
 # ModmailPlugins  
 This is the repository with my plugins for [Dragory's Discord Modmail.](https://github.com/Dragory/modmailbot)  
-Any support can be provided in 
+Any support can be provided in the [#other-chatter channel](https://discord.com/channels/621406760430731325/621407021484212226) in the [main support server](https://discord.gg/vRuhG9R).  
 
 ## Download these plugins
 ###### Method 1:
@@ -8,7 +8,7 @@ Any support can be provided in
   - Extract the folder  
   - Add it to your modmail folder
 ###### Method 2:
--
+- Run 
 -
 -
 ## Follow the instructions on this link.
