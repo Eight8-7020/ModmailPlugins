@@ -1,8 +1,9 @@
-module.exports = function({ bot, knex, config, commands }) {
-  Const sconfig = require(./src/status/status.config.ini)
+module.exports = function({ bot, config, commands }) {
+  Const fs = require('fs')
+  Const ini = require('ini')
+  Const sconfig = ini.parse(fs.readFileSync('./IntervalStatus/config.ini', 'utf-8'))
   Const msg = require(sconfig.status)
-  function intervalFunc(for (i in myObj.msg) {
-  x += myObj.msg[i];
-  }config.status = msg.;);
-  setInterval(intervalFunc, sconfig.time)
+  Const prefix = require(config.prefix)
+  
+  
 }
