@@ -12,7 +12,7 @@ Any support can be provided in [#other-chatter](https://discord.com/channels/621
 -
 -
 ## Follow the instructions on this link.
-[config.ini format]()  
+[config.ini format](.gitignore)  
 [config.json format]()  
 [config.env format]()    
 [pm2 env format]()  
