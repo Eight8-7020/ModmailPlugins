@@ -7,7 +7,7 @@ Installation of the plugins is very simple!
 For windows, use the install.bat file  
 For linux, use the install.sh file  
 For mac OS, open up a terminal, chmod the install.sh file and execute it.  
-=======
+
 ## Download these plugins ##
 ###### Method 1: ######
   - Download a zip of this repository  
@@ -17,7 +17,7 @@ For mac OS, open up a terminal, chmod the install.sh file and execute it.
 - Run 
 -
 -
-## Follow the instructions on this link.
+## Follow the instructions on this link. ##
 [config.ini format](.gitignore)  
 [config.json format]()  
 [config.env format]()    
@@ -25,10 +25,10 @@ For mac OS, open up a terminal, chmod the install.sh file and execute it.
 [general env]()  
 [config.js format]()  
 
-## Configuration
+## Configuration ##
 Open the plugins.config.ini file in a text editor and fill out the values.  
 Save it and restart your modmail!
 
-## Editing Code
+## Editing Code ##
 Go ahead! Edit at your own will, but please abide by the license.  
 I will not provide support however.  
