@@ -1,0 +1,18 @@
+{
+"name": "ModmailPlugins",
+"description": "A directory of plugins by Eight8-7020 to be used with Dragory's Modmail: https://github.com/Dragory/modmailbot",
+"version": "0.1.0",
+"repository": {
+"type": "git",
+"url": "https://github.com/Eight8-7020/ModmailPlugins"
+},
+"author": "Eight8-7020",
+"license":{
+"MIT",
+"Common Clause"
+},
+"bugs": {
+"url": "https://github.com/Eight8-7020/ModmailPlugins/issues"
+},
+"homepage": "https://github.com/Eight8-7020/ModmailPlugins"
+}
