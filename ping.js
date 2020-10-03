@@ -1,4 +1,4 @@
-modules.export = function({bot, config, commands}) {
+module.exports = function({bot, commands}) {
         commands.addGlobalCommand ('ping', '',(msg, args) => {
 		bot.createMessage(msg.channel.id, ":ping_pong: Pinging...").then(m =>{
 			const ping = msg.createdTimestamp - m.createdTimestamp;
